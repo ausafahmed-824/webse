@@ -3174,10 +3174,10 @@ span.site-header__cart-count {
 slideshow-component:not(.page-width) .slider-buttons {
     border-right: 0;
     border-left: 0;
-    justify-content: space-between;
+    
     border: none;
   position: absolute;
-    top: 50%;
+    top: 54rem;
   transform: translateY(-50%);
   width: 100%;
     over-flow:hidden;
