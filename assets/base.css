@@ -3183,3 +3183,7 @@ slideshow-component:not(.page-width) .slider-buttons {
     over-flow:hidden;
   z-index:4;
 }
+
+button.slideshow__autoplay.slider-button.no-js-hidden {
+    display: none;
+}
