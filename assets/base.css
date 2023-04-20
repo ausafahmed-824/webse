@@ -3170,3 +3170,16 @@ details-disclosure > details {
 span.site-header__cart-count {
     height: 45%;
 }
+
+slideshow-component:not(.page-width) .slider-buttons {
+    border-right: 0;
+    border-left: 0;
+    justify-content: space-between;
+    border: none;
+  position: absolute;
+    top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+    over-flow:hidden;
+  z-index:4;
+}
